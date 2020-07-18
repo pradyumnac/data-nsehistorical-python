@@ -1,3 +1,5 @@
 nsepy
 jupyterlab
 matplotlib
+fastapi
+uvicorn
