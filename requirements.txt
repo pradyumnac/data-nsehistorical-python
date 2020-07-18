@@ -1,2 +1,3 @@
 nsepy
 jupyterlab
+matplotlib
