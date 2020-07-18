@@ -1,0 +1,9 @@
+env
+lenv
+wenv
+log
+*.log
+__pycache__
+*.swp
+.ipynb_checkpoints
+.dump.html
